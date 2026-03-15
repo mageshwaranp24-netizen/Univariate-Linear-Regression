@@ -45,8 +45,7 @@ plt.show()
 ```
 ## Output
 
-Screenshot (214)
-![image]("C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (215).png")
+
 
 
 ## Result
