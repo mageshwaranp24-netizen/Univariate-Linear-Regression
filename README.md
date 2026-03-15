@@ -44,7 +44,7 @@ plt.show()
 
 ```
 ## Output
-![Program Output](Screenshot (214))
+![image](Screenshot (214))
 
 
 ## Result
