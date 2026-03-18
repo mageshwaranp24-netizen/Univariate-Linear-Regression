@@ -44,7 +44,9 @@ plt.show()
 
 ```
 ## Output
-![Alt_text](Screenshot (214))
+<img width="1920" height="1080" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/23cf66a5-c5e0-461b-a225-596daa99087a" />
+<img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/b96ca818-e21e-4506-bbb5-22a113ef853b" />
+
 
 
 ## Result
