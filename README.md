@@ -44,7 +44,7 @@ plt.show()
 
 ```
 ## Output
-![Alt text](c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (214).png)
+![Alt_text](c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot (214).png)
 
 
 ## Result
